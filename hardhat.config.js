@@ -1,3 +1,5 @@
+require("@nomiclabs/hardhat-ethers");
+require("./tasks/faucet");
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
